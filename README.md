@@ -8,11 +8,11 @@ I'm currently building, learning machine learning, and figuring things out along
 
 - **[Khabarsaz](https://khabarsaz.com)** — a project in progress.
 - **[Vasmava](https://vasmava.ir)** — UI/UX design.
-- **[Jahat Team](https://github.com/AmirTheGhodrati/jahat-team)** — a Persian team planning app with an idea matrix and timeline.
 
 ### What I use
 
-Python · HTML · CSS · Codex  
+Python · JS · TS
+Using codex to ship projects
 Currently learning: machine learning
 
 ### Say hello
