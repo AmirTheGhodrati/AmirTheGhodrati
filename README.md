@@ -12,8 +12,8 @@ I'm currently building, learning machine learning, and figuring things out along
 ### What I use
 
 Python · JS · TS
-Using codex to ship projects
-Currently learning: machine learning
+Using codex to ship projects \n
+Currently learning deep learning
 
 ### Say hello
 
